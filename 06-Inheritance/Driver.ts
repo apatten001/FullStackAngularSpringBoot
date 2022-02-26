@@ -10,3 +10,5 @@ console.log(myCircle.getInfo());
 
 let myRectangle = new Rectangle(0,0,3,4)
 console.log(myRectangle.getInfo())
+
+
